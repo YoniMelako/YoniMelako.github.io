@@ -380,3 +380,15 @@
 	============================================================================================ */
 	
 }
+@media (min-width: 992px)
+{
+
+    .ml-auto, .mx-auto {
+        margin-right: auto !important;
+    }
+    .navbar > .container {
+
+        display:block;
+    }
+    }
+
